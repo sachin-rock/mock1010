@@ -1,0 +1,152 @@
+{
+  "register": [
+    {
+      "name": " sachin",
+      "email": "sachin@gmail",
+      "password": "sachin@555",
+      "username": "",
+      "mobile": "",
+      "id": 1
+    },
+    {
+      "name": "Sachin Ingole",
+      "email": "sachiningole112@gmail.com",
+      "password": "123",
+      "username": "",
+      "mobile": "",
+      "id": 2
+    },
+    {
+      "name": "SACHIN INGOLE",
+      "email": "sachin_fw15_465@masai.school",
+      "password": "123",
+      "username": "",
+      "mobile": "",
+      "id": 3
+    }
+  ],
+  "login": [
+    {
+      "email": "sachin@gmail",
+      "password": "sachin@555",
+      "id": 1
+    },
+    {
+      "email": "sachin@gmail",
+      "password": "sachin@555",
+      "id": 2
+    },
+    {
+      "email": "sachin@gmail",
+      "password": "sachin@555",
+      "id": 3
+    },
+    {
+      "email": "sachiningole112@gmail.com",
+      "password": "123",
+      "id": 4
+    },
+    {
+      "email": "sachiningole112@gmail.com",
+      "password": "123",
+      "id": 5
+    },
+    {
+      "email": "sachiningole112@gmail.com",
+      "password": "123",
+      "id": 6
+    },
+    {
+      "email": "sachiningole112@gmail.com",
+      "password": "123",
+      "id": 7
+    }
+  ],
+  "findUser": [
+    {
+      "name": "typicode"
+    }
+  ],
+  "Patient": [
+    {
+      "id": 1,
+      "name": "karena kapur",
+      "medicines": 10,
+      "category": "female",
+      "Age":25,
+      "img": "https://th.bing.com/th/id/OIP.I3ca_YUc51qQiH4EHJ-AZQHaK7?pid=ImgDet&rs=1"
+    },
+    {
+      "id": 2,
+      "name": "aaliya bhat",
+      "medicines": 31,
+      "category": "female",
+      "Age":26,
+      "img": "https://th.bing.com/th/id/OIP.jvPF_z-uOF0rhy_1f63cqwHaLO?pid=ImgDet&rs=1"
+    },
+    {
+      "id": 3,
+      "name": "Rhoit sharma",
+      "medicines": 27,
+      "Age":27,
+      "category": "male",
+      "img": "https://1.bp.blogspot.com/-3r2LTysMpt8/XfRu0y_pH8I/AAAAAAAAmK8/kKR_X-WCjowRpQGHctiztIRDVhpPDEtogCNcBGAsYHQ/s1600/3.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Dhoni",
+      "medicines": 25,
+      "Age":28,
+      "category": "male",
+      "img": "https://www.hdwallpapers.in/download/ms_dhoni_icc_world_t20_8_4k_hd_celebrities-HD.jpg"
+    },
+    {
+      "id": 5,
+      "name": "katrina kaif",
+      "medicines": 19,
+      "Age":29,
+      "category": "female",
+      "img": "https://th.bing.com/th/id/OIP.jvPF_z-uOF0rhy_1f63cqwHaLO?pid=ImgDet&rs=1"
+    },
+    {
+      "id": 6,
+      "name": "partek shukla",
+      "medicines": 8,
+      "Age":30,
+      "category": "male",
+      "img": "https://www.hdwallpapers.in/download/ms_dhoni_icc_world_t20_8_4k_hd_celebrities-HD.jpg"
+    },
+    {
+      "id": 7,
+      "name": "janvi kapur",
+      "medicines": 20,
+      "Age":31,
+      "category": "female",
+      "img": "https://th.bing.com/th/id/OIP.jvPF_z-uOF0rhy_1f63cqwHaLO?pid=ImgDet&rs=1"
+    },
+    {
+      "id": 8,
+      "name": "chandra shekar",
+      "medicines": 17,
+      "Age":32,
+      "category": "male",
+      "img": "https://www.hdwallpapers.in/download/ms_dhoni_icc_world_t20_8_4k_hd_celebrities-HD.jpg"
+    },
+    {
+      "id": 9,
+      "name": "aarchi ",
+      "medicines": 12,
+      "Age":33,
+      "category": "female",
+      "img": "https://th.bing.com/th/id/OIP.jvPF_z-uOF0rhy_1f63cqwHaLO?pid=ImgDet&rs=1"
+    },
+    {
+      "id": 10,
+      "name": "harshad mehta",
+      "medicines": 10,
+      "Age":20,
+      "category": "male",
+      "img": "https://www.hdwallpapers.in/download/ms_dhoni_icc_world_t20_8_4k_hd_celebrities-HD.jpg"
+    }
+  ]
+}
